@@ -1,0 +1,1 @@
+module.exports.probot_tax = require('./data/functions/probottax')
